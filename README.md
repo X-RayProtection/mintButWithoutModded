@@ -1,4 +1,6 @@
-# mint
+# mint but without [Modded]
+
+The fork of original mint. Almost everything is same, but when you host a game with only Verified mods, the [Modded] prefix will not be displayed on server list.
 
 3rd party mod integration tool for Deep Rock Galactic to download and integrate mods completely
 externally of the game. This enables more stable mod usage as well as offline mod usage. Works for
